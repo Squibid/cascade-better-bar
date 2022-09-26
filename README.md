@@ -42,8 +42,7 @@ While appreciated it's ofc by no means necessary. ♡<br><br>
     - MacOS: `Users/[USERNAME]/Library/Application Support/Firefox/Profiles/######.default-release`
     - Windows: `C:\Users\[USERNAME]\AppData\Roaming\Mozilla\Firefox\Profiles\######.default-release`
 4. If it doesn't exist already create a folder called `chrome`.
-5. Copy your desired `userChrome.css` into that folder.
-6. *optional* Customise everything to your liking.
+5. Copy your desired `userChrome.css`, `userContent.css`, and `wall.png` into that folder.
 
 <br><br>
 
