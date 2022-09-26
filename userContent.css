@@ -1,0 +1,6 @@
+@-moz-document url-prefix(about:home), url-prefix(about:newtab), url-prefix(about:blank) {
+
+body {
+  background: url(wall.png)!important;
+  background-size: cover !important;
+}
